@@ -19,3 +19,7 @@ qt in:description：表示在 项目描述中搜索 qt 关键字
 qt in:USERNAME：表示在USERNAME中搜索 qt 关键字
 qt in:ORGNAME：表示在组织或机构名中搜索 qt 关键字
 size:>=5000 Qt ：搜索大小超过5M 的包含 Qt 关键字项目
+
+查找一些开发者
+location:china  匹配用户填写的地址在中国
+language:javascript 匹配开发语言为Javascript的开发者
