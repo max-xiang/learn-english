@@ -1,0 +1,21 @@
+github 使用技巧：
+
+① Trending and topic 这是两大热门的板块（中文意思Trend是趋势的意思 topic是热度）
+  在这个版块中进行查找最近的更新。
+
+②awesome +关键字搜索 现在有些很好的项目采用这些规范进行命名。搜索出来的排名的都比较靠前的比较好的资源.
+
+③ stars 代表当前人气值，越高表示越受欢迎
+  搜索小技巧：    表示java这个关键字数量大于5000的仓库展示出来
+            stars:>5000 java
+
+④fork 表示项目被fork
+   fork 100..500 java 
+   表示查找被fork的次数在100-500之间的项目
+   
+qt in:name：表示在项目名称中搜索 qt 关键字
+qt in:readme：表示在项目readme中搜索 qt 关键字
+qt in:description：表示在 项目描述中搜索 qt 关键字
+qt in:USERNAME：表示在USERNAME中搜索 qt 关键字
+qt in:ORGNAME：表示在组织或机构名中搜索 qt 关键字
+size:>=5000 Qt ：搜索大小超过5M 的包含 Qt 关键字项目
